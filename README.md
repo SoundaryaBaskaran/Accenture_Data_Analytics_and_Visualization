@@ -37,5 +37,13 @@ Brought the data to life and extracted valuable insights for the business. Built
 - What was the month with the most posts?
 - How many reactions are there to the most popular category?
 
+![Screenshot 2024-08-22 222848](https://github.com/user-attachments/assets/9402363c-954c-402b-81fe-5575de76e0c4)
+
+![image](https://github.com/user-attachments/assets/c1ca1858-30a7-491e-ae81-258e00199e04)
+
+![image](https://github.com/user-attachments/assets/dcb653a7-963f-4b4c-9104-07c67fc5d9bb)
+
+
+
 
 
