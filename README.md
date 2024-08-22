@@ -44,6 +44,11 @@ Brought the data to life and extracted valuable insights for the business. Built
 ![image](https://github.com/user-attachments/assets/dcb653a7-963f-4b4c-9104-07c67fc5d9bb)
 
 
+## Task 4: Present to the Client
+Objective: Deliver insights from the analysis through the prepared presentation.
+
+
+
 
 
 
